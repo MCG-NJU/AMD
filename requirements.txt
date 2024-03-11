@@ -1,0 +1,15 @@
+av
+decord
+einops
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+scipy
+tensorboardX
+timm==0.4.12
+torch>=1.2
+torchaudio
+torchvision
+deepspeed==0.6.0
