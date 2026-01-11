@@ -9,7 +9,7 @@ The following ranking results are produced by `vit-b`:
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/asymmetric-masked-distillation-for-pre/action-recognition-in-videos-on-hmdb-51)](https://paperswithcode.com/sota/action-recognition-in-videos-on-hmdb-51?p=asymmetric-masked-distillation-for-pre)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/asymmetric-masked-distillation-for-pre/action-classification-on-kinetics-400)](https://paperswithcode.com/sota/action-classification-on-kinetics-400?p=asymmetric-masked-distillation-for-pre)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/asymmetric-masked-distillation-for-pre/image-classification-on-imagenet)](https://paperswithcode.com/sota/image-classification-on-imagenet?p=asymmetric-masked-distillation-for-pre)
-> [Asymmetric Masked Distillation for Pre-Training Small Foundation Models](https://arxiv.org/abs/2308.10794)<br>
+> [Asymmetric Masked Distillation for Pre-Training Small Foundation Models](https://arxiv.org/abs/2311.03149)<br>
 > [Zhiyu Zhao](https://github.com/JerryFlymi), [Bingkun Huang](https://github.com/congee524), [Sen Xing](https://github.com/xings19), [Gangshan Wu](https://mcg.nju.edu.cn/member/gswu/en/index.html), [Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ&hl), and [Limin Wang](http://wanglimin.github.io/)<br>
 > Nanjing University, Shanghai AI Lab<br>
 
