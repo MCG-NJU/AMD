@@ -2,6 +2,7 @@
 
 ![flowchart](imgs/AMD.png)
 The following ranking results are produced by `vit-b`:
+
 [![Papers with Code: #3 on UCF101](https://paperswithcode.co/api/v1/papers/2311.03149/leaderboard-badge.svg?eval=34494&live=1)](https://paperswithcode.co/api/v1/papers/2311.03149/leaderboard-badge-link?eval=34494)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/asymmetric-masked-distillation-for-pre/action-recognition-in-videos-on-something)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something?p=asymmetric-masked-distillation-for-pre)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/asymmetric-masked-distillation-for-pre/action-recognition-in-videos-on-ucf101)](https://paperswithcode.com/sota/action-recognition-in-videos-on-ucf101?p=asymmetric-masked-distillation-for-pre)
